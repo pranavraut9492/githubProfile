@@ -18,7 +18,7 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 
-<img align="right" height="150" width="150" alt="Woman Coding GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
+<img align="right" height="150" width="250" alt="Woman Coding GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
 🔭 Currently working on achieving my dream!
 
@@ -68,7 +68,7 @@ Manage, develop, design solutions and work as a team player
 
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Let's Connect!
 
-I'm always excited to collaborate on new projects and exchange ideas. Feel free to reach out if you'd like to discuss anything related to web development, technology, or just want to say hello!
+I'm always excited to collaborate on new projects and exchange ideas. Feel free to reach out if you'd like to discuss anything related to web development, technology, or just want to say hello! email : pranavraut@outlook.in.
 
 <p align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
